@@ -1,12 +1,14 @@
 # scrabble-word-score-calculator
 A programm written for the Habitica Programming Challenges October 2019 Challenge
 
-Habitica Challenge October 2019
 
 Challenge Description:
+
 In the game Scrabble each letter has a value. One completed word gives you a score.
 
+
 Write a program that takes a word as an imput and outputs the calculated scrabble score.
+
 
 Values and Letters:
 1 - A, E, I, O, U, L, N, R, S, T
@@ -17,8 +19,10 @@ Values and Letters:
 8 - J, X
 10 - Q, Z
 
+
 Example:
 The word "cabbage" gives you a score of 14 (c-3, a-1, b-3, b-3, a-1, g-2, e-1)
+
 
 Extensions:
 You can play a double or triple letter
