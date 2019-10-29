@@ -1,5 +1,5 @@
 # scrabble-word-score-calculator
-A programm written for the Habitica Programming Challenges October 2019 Challenge
+A program written for the Habitica Programming Challenges October 2019 Challenge
 
 
 Challenge Description:
